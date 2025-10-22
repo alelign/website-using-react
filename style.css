@@ -55,3 +55,17 @@ a:hover{
 .logo:hover{
     cursor:default;
 }
+/*hamburger menu*/
+
+#hamburger-nav{
+    display:none;
+}
+.hamburger-menu{
+    position: relative;
+    display:inline-block;
+
+}
+.hamburger-icon{
+    display: flex;
+    flex-d
+}
