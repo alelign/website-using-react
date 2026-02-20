@@ -240,6 +240,15 @@ border-radius: 2rem;
     justify-content: center;
     flex-direction: column;
 }
-.about-containers,.about-details-container{
+.about-containers,
+.about-details-container{
     display:flex;
+}
+.about-pic{
+    border: radius 2rem;
+}
+.arrow{
+    position:absolute
+    right : -5rem;
+    bottom : 2.5rem;
 }
