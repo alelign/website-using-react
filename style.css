@@ -134,7 +134,7 @@ section{
     box-sizing:border-box;
     min-height: fit-content;
 }
-section-container ,#profile{
+section-container{
     display:flex;
 }
 /*profile section*/
@@ -158,10 +158,10 @@ section-container ,#profile{
     font-weight: 600;
 
 }
-.section__text__p2{
+.section__text__p1{
     text-align: center;
 }
-.section__text__p1{
+.section__text__p2{
     font-size: 1.75rem;
     margin-bottom: 1rem;
 }
